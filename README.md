@@ -14,17 +14,21 @@ mkdir Scripts
 cd Scripts/
 ```
 
-After you've choosen a directory, follow the remaning directions:
+After you've chosen a directory, follow the remaining directions:
 ``` 
 wget https://raw.githubusercontent.com/YelloNolo/Qubes-WiFi-Toggle/master/wifi.sh
 chmod +x wifi.sh 
 ```
+Copy the location:
+'''
+pwd
+'''
 
 Then open ``` Keyboard >> Application Shortcuts ```
 
 Click ``` +Add ```
 
-Type ``` ~\Documents\Scripts\wifi.sh ```
+Enter the copied ''' pwd ''' command from earlier, then follow the prompts.
 
 <br><br><br>
 <i>The script is now baked :)</i>
