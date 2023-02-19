@@ -14,7 +14,7 @@ mkdir Scripts
 cd Scripts/
 ```
 
-After you've chosen a directory, follow the remaining directions:
+After you've chosen a directory, enter the following commands:
 ``` 
 wget https://raw.githubusercontent.com/YelloNolo/Qubes-WiFi-Toggle/master/wifi.sh
 chmod +x wifi.sh 
