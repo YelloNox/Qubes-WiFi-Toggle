@@ -28,7 +28,8 @@ Then open ``` Keyboard >> Application Shortcuts ```
 
 Click ``` +Add ```
 
-Enter the copied ''' pwd ''' command from earlier, then follow the prompts.
+Enter the copied ''' pwd ''' command, then type ``` /wifi.sh ```
+Follow the remaning prompts... 
 
 <br><br><br>
 <i>The script is now baked :)</i>
