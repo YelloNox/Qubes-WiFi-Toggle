@@ -5,10 +5,11 @@ This is a quick and easy way to fix a non-working wifi toggle button on your lap
 
 How to use this?
 
-In the ``` [Dom0] Terminal ```
+Open the: ``` [Dom0] Terminal ```
 
 Choose a directory (this is an example):
-``` cd ~/Documents
+``` 
+cd ~/Documents
 mkdir Scripts
 cd Scripts/
 ```
