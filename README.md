@@ -2,7 +2,7 @@
 
 >Fix a non-working wifi toggle button on your laptop in Qubes OS.
 
-How to use this?
+### How to use this?
 
 Open the: ``` [Dom0] Terminal ```
 
