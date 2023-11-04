@@ -1,7 +1,6 @@
 # Qubes-WiFi-Toggle
 
-What is this?
-This is a quick and easy way to fix a non-working wifi toggle button on your laptop when running Qubes OS.
+>Fix a non-working wifi toggle button on your laptop in Qubes OS.
 
 How to use this?
 
