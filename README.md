@@ -15,7 +15,7 @@ cd Scripts/
 
 After you've chosen a directory, enter the following commands:
 ``` 
-wget https://raw.githubusercontent.com/YelloNolo/Qubes-WiFi-Toggle/master/wifi.sh
+wget https://raw.githubusercontent.com/YelloNox/Qubes-WiFi-Toggle/master/wifi.sh
 chmod +x wifi.sh 
 ```
 Copy the location:
